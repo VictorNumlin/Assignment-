@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main (){
+int number1= 10;
+int number2= 20;
+printf("number1 + 10");
+scanf("%d",&number1);
+printf("number2 - 10");
+scanf("%d", &number2);
+}
+return 0;
